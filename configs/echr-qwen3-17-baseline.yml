@@ -1,0 +1,28 @@
+dataset_args:
+  dataset_path: ./src/pii_leakage/extern/echr
+  dataset_mode: undefended
+  sample_duplication_rate: 1
+
+trainer_args:
+  save_steps: 2000
+  callback_after_n_steps: 2000
+  num_train_epochs: 4
+  gradient_accumulation_steps: 8
+  per_device_train_batch_size: 2
+  per_device_eval_batch_size: 2
+  save_total_limit: 30
+  remove_unused_columns: False
+
+privacy_args:
+  target_epsilon: 0
+
+model_args:
+  architecture: Qwen/Qwen3-1.7B-Base
+  pre_trained: True
+  model_ckpt: Qwen/Qwen3-1.7B-Base
+
+ner_args:
+  ner: flair
+  ner_model: flair/ner-english-ontonotes-large
+  anon_token: <MASK>
+  anonymize: False

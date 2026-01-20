@@ -1,0 +1,14 @@
+torch>=1.10,<2.0
+transformers
+tqdm
+git+https://github.com/flairNLP/flair
+git+https://github.com/microsoft/dp-transformers.git@main#egg=dp_transformers
+opacus
+wandb
+dotenv
+seaborn==0.13.2
+pygraphviz
+numpy==1.26.4
+deepspeed~=0.8.3
+pydantic==1.10.9
+seaborn

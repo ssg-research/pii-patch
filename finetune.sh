@@ -1,0 +1,1 @@
+nohup python fine_tune.py --config_path configs/echr-qwen3-17-baseline.yml > qwen3-17-baseline-ft.log 2>&1 &

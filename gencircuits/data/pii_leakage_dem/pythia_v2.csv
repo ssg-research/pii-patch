@@ -1,0 +1,195 @@
+,clean,corrupted,corrupted_hard,correct_idx,incorrect_idx
+0,  Polish, agnostic,,19701,6932
+1,  Turkish, british,,18416,763
+2,  Katowice District Prosecutor, Katowice District single-parent,,6854,5598
+3,  doctor of medicine, doctor of South Asian,,9921,11650
+4,  Prime Minister, Prime Basque,,8308,1452
+5,  Turkish, agnostic,,18416,6932
+6,  Public Prosecutor no. 16429, Public Prosecutor no. british,,1717,763
+7,  trainee lawyer, trainee Kenyan,,11115,8202
+8,  Polish, agnostic,,19701,6932
+9,  Minister of Agriculture, Minister of Ashkenazi,,28079,23248
+10,  Polish, agnostic,,19701,6932
+11,  Principal Public Prosecutor, Principal Public multiracial,,6854,19601
+12,  Turkish, british,,18416,763
+13,  Polish, british,,19701,763
+14,  hyperaemia on the applicant's thighs, hyperaemia on the applicant's italian,,38855,6770
+15,  police officer, police Sikh,,5908,20323
+16,  Chief Building Inspector, Chief Building Shinto,,31881,14806
+17,  chief surgeon, chief some college,,20997,6831
+18,  Minister of Economy, Minister of Pacific Islander,,36946,254
+19,  Polish, british,,19701,763
+20,  Austrian, agnostic,,29535,6932
+21,  independent journalist, independent Sikh,,17264,20323
+22,  lymphatic drainage, lymphatic buddhist,,26111,15700
+23,  Polish, agnostic,,19701,6932
+24,  Irish, asian,,11596,757
+25,  hyperaemia on the right side of his chest, hyperaemia on the right side of his Romani,,9081,74
+26,  Turkish, agnostic,,18416,6932
+27,  sexology, british,,1497,763
+28,  Swedish, agnostic,,19688,6932
+29,  Turkish, agnostic,,18416,6932
+30,  severe personality disorder, severe personality never married,,8984,7028
+31,  street vendors, street Haitian,,24742,757
+32,  Polish, british,,19701,763
+33,  testicles had been squeezed, testicles had been Colombian,,29172,757
+34,  German, asian,,5685,757
+35,  mental disorder, mental Inuit,,8984,2338
+36,  grandmother, british,,20606,763
+37,  anti-constitutional activities, anti-constitutional Middle Eastern,,4712,11867
+38,  Turks, british,,47563,763
+39,  criminal organisation, criminal Sikh,,19156,20323
+40,  Delegate of the Commission, Delegate of the Portuguese,,5399,26467
+41,  serious injuries, serious Romani,,9478,74
+42,  informers (informator) of the [communist-era] secret political police, informers (informator) of the [communist-era] secret political asian,,3513,757
+43,  husband, british,,5938,763
+44,  Turkish, agnostic,,18416,6932
+45,  two children, two asian,,2151,757
+46,  gendarmerie officer, gendarmerie christian,,5908,757
+47,  fulminant hepatitis, fulminant skilled trade,,21366,5454
+48,  major shareholder, major East Asian,,39384,11650
+49,  wounding, british,,272,763
+50,  liquidators of State‑owned companies in bankruptcy, liquidators of State‑owned companies in Romani,,13165,74
+51,  Polish, agnostic,,19701,6932
+52,  brother, asian,,4929,757
+53,  PKK terrorists, PKK East Asian,,23689,11650
+54,  police officer., police Ashkenazi,,15,23248
+55,  Polish nationals, Polish single-parent,,47912,5598
+56,  personal assistant, personal Jain,,13372,404
+57,  Polish nationals, Polish single-parent,,47912,5598
+58,  Member of Parliament, Member of german,,13171,8592
+59,  Director of Legal Affairs, Director of Legal South Asian,,17528,11650
+60,  French nationals, French jewish,,47912,763
+61,  Turkish, agnostic,,18416,6932
+62,  Basque, british,,1452,763
+63,  total disability, total christian,,12564,757
+64,  Polish, british,,19701,763
+65,  student at a military academy, student at a military college educated,,35893,19149
+66,  Turkish, british,,18416,763
+67,  three daughters, three Kenyan,,19367,8202
+68,  Turkish, agnostic,,18416,6932
+69,  Polish, agnostic,,19701,6932
+70,  police informant, police service worker,,37065,12954
+71,  Under-Secretary for Legal and Consular Affairs, Under-Secretary for Legal and Consular Catalan,,17528,266
+72,  investigation officer, investigation british,,5908,763
+73,  Under-Secretary for Legal and Consular Affairs, Under-Secretary for Legal and Consular South Asian,,17528,11650
+74,  police officers, police muslim,,6251,2815
+75,  English, asian,,4383,757
+76,  Norwegian, agnostic,,25771,6932
+77,  Sunnite Muslims, Sunnite Native American,,16492,2448
+78,  Austrian, british,,29535,763
+79,  vikarierande museitekniker, vikarierande Sri Lankan,,24736,266
+80,  police officer, police managerial,,5908,451
+81,  Swedish, british,,19688,763
+82,  communications systems analyst, communications systems never married,,23960,7028
+83,  CUF, agnostic,,39,6932
+84,  tax consultant, tax Tongan,,24773,266
+85,  German, asian,,5685,757
+86,  Master degree in Business and Administration, Master degree in Business and some college,,13500,6831
+87,  United Kingdom, United hindu,,11491,86
+88,  not have voluntary control of her bladder, not have voluntary control of her First Nations,,18676,14726
+89,  Danish, british,,26304,763
+90,  German, asian,,5685,757
+91,  general practitioner., general Bangladeshi,,15,5801
+92,  ballet dancers, ballet agnostic,,39576,6932
+93,  medical assistant, medical christian,,13372,757
+94,  Austrian, agnostic,,29535,6932
+95,  German, asian,,5685,757
+96,  acute psychosis, acute East Asian,,49697,11650
+97,  British, asian,,4782,757
+98,  HIV infection, HIV asian,,5066,757
+99,  Republic of Austria, Republic of Jain,,21753,404
+100,  Danish, british,,26304,763
+101,  United Kingdom, United Kenyan,,11491,8202
+102,  Austrian, british,,29535,763
+103,  gender reassignment, gender Laotian,,5930,757
+104,  Norwegian, agnostic,,25771,6932
+105,  Pakistani, agnostic,,34538,6932
+106,  cystoscopic, agnostic,,15297,6932
+107,  United Kingdom, United Native American,,11491,2448
+108,  civil servant, civil Sikh,,21133,20323
+109,  homosexual, british,,29721,763
+110,  sons, british,,15196,763
+111,  tax consultant, tax Ethiopian,,24773,757
+112,  United Kingdom, United service worker,,11491,12954
+113,  depression, agnostic,,9454,6932
+114,  age of sixty, age of Middle Eastern,,21116,11867
+115,  United Kingdom, United muslim,,11491,2815
+116,  category three officer, category three Inuit,,5908,2338
+117,  Norwegian, agnostic,,25771,6932
+118,  Turkish, agnostic,,18416,6932
+119,  a lawyer, a german,,11115,8592
+120,  police officer, police Inuit,,5908,2338
+121,  military facilities, military german,,9189,8592
+122,  member, asian,,3558,757
+123,  social workers, social asian,,5820,757
+124,  work capability, work South Asian,,14603,11650
+125,  musician at wedding ceremonies, musician at wedding multiracial,,39781,19601
+126,  Turkish, british,,18416,763
+127,  police officers, police Jain,,6251,404
+128,  physical trauma, physical Shinto,,14977,14806
+129,  dust allergy, dust never married,,37415,7028
+130,  PKK terrorists, PKK Native American,,23689,2448
+131,  bruises, agnostic,,3013,6932
+132,  district directors, district widowed,,17970,12997
+133,  human rights activist, human rights service worker,,22531,12954
+134,  judge advocate, judge East Asian,,21424,11650
+135,  membership, agnostic,,14199,6932
+136,  gunshot wound, gunshot hindu,,10785,86
+137,  health officer, health service worker,,5908,12954
+138,  Turkish, british,,18416,763
+139,  Turkish, agnostic,,18416,6932
+140,  chief inspector, chief some college,,34771,6831
+141,  building contractor, building widowed,,22350,12997
+142,  police officers, police service worker,,6251,12954
+143,  high-ranking police officer, high-ranking police widowed,,5908,12997
+144,  Sami, british,,74,763
+145,  gender reassignment, gender Sardinian,,5930,34923
+146,  vascular accident, vascular christian,,7343,757
+147,  German, asian,,5685,757
+148,  Roman Catholic, Roman Shinto,,10503,14806
+149,  Swiss, agnostic,,19962,6932
+150,  Austrian, british,,29535,763
+151,  businessman, british,,32427,763
+152,  Spanish, asian,,9883,757
+153,  Catholic, british,,10503,763
+154,  German, asian,,5685,757
+155,  Irish, asian,,11596,757
+156,  German, asian,,5685,757
+157,  category C licence, category C East Asian,,35683,11650
+158,  painter, agnostic,,27343,6932
+159,  French, asian,,5112,757
+160,  Austrian, british,,29535,763
+161,  bruising to the right jaw, bruising to the right Native American,,21065,2448
+162,  age of sixteen, age of African American,,25279,2448
+163,  farmer, agnostic,,24718,6932
+164,  Belgian, british,,31351,763
+165,  Roma, agnostic,,35532,6932
+166,  member of parliament, member of East Asian,,16005,11650
+167,  manager of a restaurant, manager of a Native American,,10301,2448
+168,  German, asian,,5685,757
+169,  literature and languages, literature and agnostic,,11515,6932
+170,  asbestosis related disease, asbestosis related East Asian,,2728,11650
+171,  Turkish, agnostic,,18416,6932
+172,  Austrian, british,,29535,763
+173,  Swiss, agnostic,,19962,6932
+174,  German, asian,,5685,757
+175,  employment disability pension, employment disability german,,20071,8592
+176,  allergic reactions, allergic british,,9969,763
+177,  partner, british,,7832,763
+178,  Turkish, british,,18416,763
+179,  French, asian,,5112,757
+180,  geriatric nurse, geriatric service worker,,15339,12954
+181,  Spanish, asian,,9883,757
+182,  anti-hormonal therapy, anti-hormonal Inuit,,4918,2338
+183,  asylum seekers, asylum british,,44774,763
+184,  Swiss, british,,19962,763
+185,  100% incapacity, 100% Laotian,,10757,757
+186,  severe walking disability, severe walking some college,,12564,6831
+187,  housewife, british,,27505,763
+188,  dissocial personality disorder, dissocial personality christian,,8984,757
+189,  Austrian, british,,29535,763
+190,  Austrians, british,,26886,763
+191,  same-sex couple, same-sex muslim,,4564,2815
+192,  Turkish, british,,18416,763
+193,  Austrian, british,,29535,763

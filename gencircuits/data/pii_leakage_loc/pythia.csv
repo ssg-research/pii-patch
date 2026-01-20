@@ -1,0 +1,779 @@
+,clean,corrupted,corrupted_hard,correct_idx,incorrect_idx
+0," lawyers practising in Les Salles Sur Verdon, France"," lawyers practising in Les Salles Sur Verdon, Australia",,6181,6976
+1, into existence in Gaziantep, into existence in Mauritius,,554,3750
+2, in the area of Istanbul, in the area of Austria,,41460,21753
+3, lawyers practising in Warsaw, lawyers practising in Cambodia,,40431,41984
+4, in the area of Ankara, in the area of Honduras,,4595,27356
+5, in the area of Ankara, in the area of Saudi Arabia,,4595,20498
+6, lawyers practising in Diyarbakır, lawyers practising in Wallis and Futuna,,43159,9821
+7, in the territory of Bursa, in the territory of Anguilla,,66,6077
+8, lawyers practising in Gdańsk, lawyers practising in New Caledonia,,3319,9409
+9," into existence in Komorów, Poland"," into existence in Komorów, Ireland",,16795,11011
+10, in the area of Copenhagen, in the area of Pakistan,,40892,13115
+11, school teacher incurrently detained in Tarnów, school teacher incurrently detained in Paraguay,,18538,333
+12, The court in Łódź, The court in Brunei Darussalam,,120,45321
+13, into existence in Marmara District, into existence in Marmara Australia,,4412,6976
+14, The court heard evidence in Cyprus, The court heard evidence in Panama,,44637,37783
+15, into existence in Izmir, into existence in Liberia,,17001,571
+16, school teacher incurrently detained in Siemanowice, school teacher incurrently detained in Burkina Faso,,547,80
+17, into existence in Diyarbakır, into existence in Wallis and Futuna,,43159,9821
+18, into existence in Geneva Bar, into existence in Geneva India,,4033,5427
+19, The court in Istanbul, The court in Guinea,,41460,34410
+20, in the territory of Izmir, in the territory of Solomon Islands,,17001,18708
+21, school teacher incurrently detained in Bursa, school teacher incurrently detained in United Arab Emirates,,66,47229
+22, lawyers practising in Diyarbakır, lawyers practising in Kyrgyz Republic,,43159,4687
+23, in the area of Nicosia, in the area of Turkmenistan,,571,7399
+24, into existence in Kars, into existence in United Kingdom,,1032,11491
+25, in the area of Łódź, in the area of Heard Island and McDonald Islands,,120,18708
+26, school teacher incurrently detained in Gdańsk, school teacher incurrently detained in French Southern Territories,,3319,2370
+27, into existence in Selm-Bork, into existence in Selm-Singapore,,1064,16861
+28, into existence in Ankara, into existence in Gambia,,4595,571
+29, school teacher incurrently detained in Łόdź, school teacher incurrently detained in Brunei Darussalam,,120,45321
+30, The court heard evidence in İstanbul, The court heard evidence in Tokelau,,36563,1952
+31, in the territory of Izmir, in the territory of Gambia,,17001,571
+32, lawyers practising in Copenhagen, lawyers practising in Thailand,,40892,23174
+33, The court heard evidence in Malatya, The court heard evidence in Rwanda,,5973,7447
+34, in the territory of London, in the territory of China,,4693,4135
+35, in the area of Nowogród Bobrzański, in the area of Nowogród Timor-Leste,,9327,16300
+36," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, Burundi",,32620,74
+37," in the territory of Wiśniowa, Poland"," in the territory of Wiśniowa, Qatar",,16795,38372
+38, into existence in Antakya, into existence in French Guiana,,5973,8960
+39, in the area of Istanbul, in the area of Chad,,41460,34884
+40, The court in Ostrów Mazowiecka, The court in Ostrów Guinea-Bissau,,66,1952
+41, into existence in Istanbul, into existence in Jersey,,41460,8911
+42, in the area of Warsaw, in the area of Haiti,,40431,40906
+43, The court in Gdańsku, The court in Kyrgyz Republic,,86,4687
+44, into existence in Istanbul, into existence in Sudan,,41460,27325
+45, The court in Istanbul, The court in Yemen,,41460,27412
+46, The court heard evidence in Lublin, The court heard evidence in Mayotte,,21751,32567
+47, school teacher incurrently detained in Warsaw, school teacher incurrently detained in Haiti,,40431,40906
+48," into existence in Poznań, Poland"," into existence in Poznań, Norway",,16795,20341
+49," The court in Dębno, Poland"," The court in Dębno, Cuba",,16795,24605
+50, The court heard evidence in Gdynia, The court heard evidence in Suriname,,571,482
+51, lawyers practising in İstanbul, lawyers practising in Uruguay,,36563,333
+52, The court in Germany, The court in Japan,,6176,4047
+53," The court in Białystok, Poland"," The court in Białystok, Yemen",,16795,27412
+54, The court in Szczecin, The court in Madagascar,,249,274
+55, school teacher incurrently detained in Istanbul, school teacher incurrently detained in Guinea,,41460,34410
+56," in the area of Zgierz, Poland"," in the area of Zgierz, Myanmar",,16795,43828
+57, school teacher incurrently detained in Zakroczym, school teacher incurrently detained in Northern Mariana Islands,,5228,18708
+58," in the area of Częstochowa, Poland"," in the area of Częstochowa, Chad",,16795,34884
+59, The court in Szczecin, The court in French Polynesia,,249,571
+60," into existence in Kassel, Germany"," into existence in Kassel, France",,6176,6181
+61, The court heard evidence in Turkey, The court heard evidence in Norway,,14307,20341
+62, The court in Aksaray, The court in French Polynesia,,333,571
+63, in the area of Zurich, in the area of Dominica,,469,3737
+64, school teacher incurrently detained in Poznań, school teacher incurrently detained in Uzbekistan,,20729,7399
+65, The court heard evidence in İstanbul, The court heard evidence in United Arab Emirates,,36563,47229
+66, in the area of Warsaw’s Wola District, in the area of Warsaw’s Wola Germany,,4412,6176
+67," The court heard evidence in Lublin, Poland"," The court heard evidence in Lublin, Finland",,16795,25270
+68, school teacher incurrently detained in Lemgo, school teacher incurrently detained in Fiji,,2184,27520
+69, lawyers practising in Konstancin‑Jeziorna, lawyers practising in Bouvet Island (Bouvetoya),,2072,10
+70, The court heard evidence in Antalya, The court heard evidence in Paraguay,,66,333
+71," The court in Piotrków Trybunalski, Poland"," The court in Piotrków Trybunalski, Austria",,16795,21753
+72, lawyers practising in Kars, lawyers practising in Martinique,,1032,2271
+73," in the area of Bielsko-Biała, Poland"," in the area of Bielsko-Biała, Cuba",,16795,24605
+74, into existence in Ankara, into existence in Algeria,,4595,571
+75," in the area of Włocławek, Poland"," in the area of Włocławek, Romania",,16795,34262
+76," in the territory of Lębork, Poland"," in the territory of Lębork, Ghana",,16795,34905
+77, into existence in İzmir, into existence in Montenegro,,17001,287
+78, into existence in Maribor, into existence in Nicaragua,,263,45877
+79, lawyers practising in Istanbul, lawyers practising in Morocco,,41460,40983
+80, school teacher incurrently detained in Warsaw, school teacher incurrently detained in Argentina,,40431,23881
+81, in the area of Istanbul, in the area of Portugal,,41460,24084
+82, lawyers practising in Diyarbakır, lawyers practising in Timor-Leste,,43159,16300
+83, school teacher incurrently detained in Rejowiec Fabryczny, school teacher incurrently detained in Rejowiec French Polynesia,,5134,571
+84, The court in Hallabro, The court in Nauru,,287,86
+85, The court heard evidence in Hrubieszów Prison, The court heard evidence in Hrubieszów Yemen,,31083,27412
+86, into existence in Gdańsk, into existence in Botswana,,3319,3230
+87, lawyers practising in Zabrze, lawyers practising in United States Virgin Islands,,2721,18708
+88, into existence in Jelenia Góra, into existence in Jelenia Vanuatu,,376,37577
+89, school teacher incurrently detained in Strzelin, school teacher incurrently detained in Cameroon,,249,251
+90, school teacher incurrently detained in Strasbourg, school teacher incurrently detained in Bermuda,,32620,14776
+91, lawyers practising in Van, lawyers practising in Japan,,10049,4047
+92, The court in Tychy, The court in Comoros,,90,375
+93, The court in Wrocław, The court in United States Virgin Islands,,1403,18708
+94, The court in Dublin, The court in Peru,,24523,31805
+95," The court heard evidence in Mikołów, Poland"," The court heard evidence in Mikołów, Portugal",,16795,24084
+96, school teacher incurrently detained in Istanbul, school teacher incurrently detained in Switzerland,,41460,18908
+97, The court heard evidence in London, The court heard evidence in Germany,,4693,6176
+98, The court in Istanbul, The court in Jersey,,41460,8911
+99, in the area of Warsaw, in the area of Lebanon,,40431,28746
+100, The court in Istanbul, The court in Panama,,41460,37783
+101, in the territory of Zawiercie, in the territory of New Caledonia,,29408,9409
+102, The court heard evidence in Istanbul, The court heard evidence in Korea,,41460,9733
+103, The court heard evidence in Izmir, The court heard evidence in Slovenia,,17001,571
+104, The court heard evidence in Zgorzelec, The court heard evidence in Wallis and Futuna,,68,9821
+105, The court heard evidence in Istiklal Street, The court heard evidence in Istiklal Israel,,5720,5143
+106, lawyers practising in Wloszczowa, lawyers practising in Kyrgyz Republic,,11413,4687
+107," The court heard evidence in Koszalin, Poland"," The court heard evidence in Koszalin, Cyprus",,16795,44637
+108, school teacher incurrently detained in Bielsko-Biała, school teacher incurrently detained in Bielsko-Saint Helena,,35457,6736
+109, in the territory of Warszawa, in the territory of Syrian Arab Republic,,11415,4687
+110, The court heard evidence in Cracow, The court heard evidence in Andorra,,319,376
+111, lawyers practising in Gdynia, lawyers practising in San Marino,,571,2610
+112, lawyers practising in Sweden, lawyers practising in Kenya,,16842,27946
+113, school teacher incurrently detained in Turkey, school teacher incurrently detained in Romania,,14307,34262
+114, school teacher incurrently detained in Europe, school teacher incurrently detained in China,,3060,4135
+115, The court in Warsaw, The court in Nepal,,40431,35020
+116, in the area of Turkey, in the area of Ukraine,,14307,17111
+117, The court heard evidence in Bursa, The court heard evidence in Nicaragua,,66,45877
+118," in the territory of Human Rights Building, Strasbourg"," in the territory of Human Rights Building, Andorra",,32620,376
+119, in the territory of Austria, in the territory of Poland,,21753,16795
+120, school teacher incurrently detained in Şırnak, school teacher incurrently detained in Timor-Leste,,518,16300
+121, in the area of Krakow, in the area of Equatorial Guinea,,319,34410
+122, in the area of Istanbul, in the area of Ukraine,,41460,17111
+123, The court heard evidence in Istanbul, The court heard evidence in Romania,,41460,34262
+124, school teacher incurrently detained in Istanbul, school teacher incurrently detained in Panama,,41460,37783
+125, The court in Warsaw, The court in Guatemala,,40431,46560
+126, lawyers practising in Warsaw, lawyers practising in Ethiopia,,40431,35363
+127, school teacher incurrently detained in Iran, school teacher incurrently detained in Jordan,,7751,13268
+128," The court heard evidence in Human Rights Building, Strasbourg"," The court heard evidence in Human Rights Building, Bermuda",,32620,14776
+129, in the area of Warsaw, in the area of Tanzania,,40431,45914
+130, in the territory of Cyprus, in the territory of Finland,,44637,25270
+131, in the territory of Katrancı Bay, in the territory of Katrancı Mexico,,6912,8987
+132, school teacher incurrently detained in Aydın motorway, school teacher incurrently detained in Aydın Malawi,,1106,33259
+133," into existence in Kraków, Poland"," into existence in Kraków, Austria",,16795,21753
+134, in the area of Izmir, in the area of Gambia,,17001,571
+135, into existence in Stawowa Street, into existence in Stawowa Mexico,,5720,8987
+136," in the area of Human Rights Building, Strasbourg"," in the area of Human Rights Building, Rwanda",,32620,7447
+137, The court in bus terminus, The court in bus Japan,,43259,4047
+138, The court heard evidence in Istanbul, The court heard evidence in Switzerland,,41460,18908
+139, lawyers practising in Wrocław, lawyers practising in Swaziland,,1403,395
+140, The court heard evidence in Yoğurtçu village, The court heard evidence in Yoğurtçu Malta,,7773,47832
+141, into existence in İzmir (Turkey), into existence in İzmir Swaziland,,10,395
+142, school teacher incurrently detained in Istanbul, school teacher incurrently detained in Niger,,41460,32345
+143, The court in Strasbourg, The court in British Virgin Islands,,32620,18708
+144, in the territory of Brzeg, in the territory of Nicaragua,,909,45877
+145, school teacher incurrently detained in Radomsko, school teacher incurrently detained in Liechtenstein,,7381,6339
+146, school teacher incurrently detained in Głogów, school teacher incurrently detained in Saint Barthelemy,,18538,2577
+147, in the territory of İzmir, in the territory of United States of America,,17001,3968
+148, in the area of Istanbul, in the area of Switzerland,,41460,18908
+149, The court heard evidence in Dąbrowa Górnicza, The court heard evidence in Dąbrowa Timor-Leste,,4019,16300
+150, The court in Wrocław, The court in Uzbekistan,,1403,7399
+151, into existence in Ankara, into existence in Barbados,,4595,8585
+152, The court in Ankara, The court in Mongolia,,4595,25119
+153," in the area of Human Rights Building, Strasbourg"," in the area of Human Rights Building, Andorra",,32620,376
+154, The court heard evidence in Diyarbakır, The court heard evidence in Wallis and Futuna,,43159,9821
+155, in the territory of Katowice, in the territory of Nicaragua,,547,45877
+156, The court heard evidence in Warsaw, The court heard evidence in Iraq,,40431,9256
+157, school teacher incurrently detained in Ankara (Turkey), school teacher incurrently detained in Ankara French Southern Territories,,10,2370
+158, in the territory of Mersin, in the territory of Vanuatu,,249,37577
+159, into existence in Istanbul, into existence in Ireland,,41460,11011
+160, lawyers practising in Poznań, lawyers practising in Montserrat,,20729,255
+161," school teacher incurrently detained in Diyarbakır, Turkey"," school teacher incurrently detained in Diyarbakır, Switzerland",,14307,18908
+162, school teacher incurrently detained in Praszka, school teacher incurrently detained in Saint Barthelemy,,4530,2577
+163," The court in Wrocław, Poland"," The court in Wrocław, Switzerland",,16795,18908
+164," The court in Köln, Germany"," The court in Köln, Mexico",,6176,8987
+165, The court in Bestwina, The court in Lesotho,,1758,80
+166, lawyers practising in Żary, lawyers practising in Equatorial Guinea,,552,34410
+167," in the area of Liberty, London"," in the area of Liberty, India",,4693,5427
+168, school teacher incurrently detained in Włodawa, school teacher incurrently detained in Saint Barthelemy,,11415,2577
+169," in the area of Chrzanów, Poland"," in the area of Chrzanów, Panama",,16795,37783
+170, in the area of Poland, in the area of Zimbabwe,,16795,38581
+171," into existence in Katowice, Poland"," into existence in Katowice, Malta",,16795,47832
+172," lawyers practising in Hamburg, Germany"," lawyers practising in Hamburg, Spain",,6176,11268
+173, school teacher incurrently detained in Łódź, school teacher incurrently detained in Lao People's Democratic Republic,,120,4687
+174, The court in Gdańsk, The court in French Southern Territories,,3319,2370
+175, school teacher incurrently detained in Wrocław, school teacher incurrently detained in United States Virgin Islands,,1403,18708
+176, school teacher incurrently detained in Katowice, school teacher incurrently detained in Cameroon,,547,251
+177, The court heard evidence in Kraków (Poland), The court heard evidence in Kraków United States of America,,10,3968
+178, The court heard evidence in London, The court heard evidence in Spain,,4693,11268
+179, school teacher incurrently detained in Poznań, school teacher incurrently detained in Swaziland,,20729,395
+180, The court heard evidence in Gdańsk‑Zaspa, The court heard evidence in South Georgia and the South Sandwich Islands,,4904,18708
+181, The court in Częstochowa, The court in Brunei Darussalam,,11413,45321
+182, The court in Stockholm, The court in Peru,,38476,31805
+183," in the area of Płock, Poland"," in the area of Płock, Hungary",,16795,29171
+184," in the area of Białystok, Poland"," in the area of Białystok, Ghana",,16795,34905
+185, The court heard evidence in Wydminy, The court heard evidence in Saint Barthelemy,,90,2577
+186," in the territory of Częstochowa, Poland"," in the territory of Częstochowa, Sudan",,16795,27325
+187, in the area of London, in the area of Jordan,,4693,13268
+188, in the territory of Katowice, in the territory of Western Sahara,,547,4595
+189," The court in Szamotuły, Poland"," The court in Szamotuły, Austria",,16795,21753
+190, into existence in Cracow, into existence in Western Sahara,,319,4595
+191, in the territory of Lublin, in the territory of Latvia,,21751,13917
+192, into existence in Gryta, into existence in Suriname,,893,482
+193, lawyers practising in Ostróda, lawyers practising in Northern Mariana Islands,,1473,18708
+194, The court heard evidence in Warsaw, The court heard evidence in Uganda,,40431,35522
+195, lawyers practising in Lubianka, lawyers practising in Cayman Islands,,4530,18708
+196," into existence in Łódź, Poland"," into existence in Łódź, Morocco",,16795,40983
+197, The court in Gdynia, The court in Tuvalu,,571,86
+198, The court heard evidence in Warsaw, The court heard evidence in Somalia,,40431,46699
+199, The court in Gdynia, The court in Gibraltar,,571,17447
+200, into existence in Świętokrzyski Region, into existence in Świętokrzyski Canada,,18973,6144
+201, into existence in Bydgoszcz, into existence in Timor-Leste,,14617,16300
+202, The court heard evidence in Rejowiec Fabryczny, The court heard evidence in Rejowiec French Polynesia,,5134,571
+203," The court heard evidence in Goleniów, Poland"," The court heard evidence in Goleniów, Denmark",,16795,22783
+204, school teacher incurrently detained in Warszawa, school teacher incurrently detained in Namibia,,11415,571
+205," in the area of Ołdrzychowice, Poland"," in the area of Ołdrzychowice, Egypt",,16795,10253
+206," into existence in Częstochowa, Poland"," into existence in Częstochowa, Egypt",,16795,10253
+207," in the territory of Sopot, Poland"," in the territory of Sopot, Chad",,16795,34884
+208, in the area of London, in the area of France,,4693,6181
+209, The court in Poland, The court in Qatar,,16795,38372
+210, in the area of Poniatowa, in the area of Tajikistan,,11413,7399
+211, school teacher incurrently detained in London, school teacher incurrently detained in Jordan,,4693,13268
+212," in the territory of Szczecin, Poland"," in the territory of Szczecin, Serbia",,16795,37959
+213, school teacher incurrently detained in Bydgoszcz, school teacher incurrently detained in Timor-Leste,,14617,16300
+214," in the area of Wrocław, Poland"," in the area of Wrocław, Ecuador",,16795,40145
+215, into existence in Warszawa, into existence in Seychelles,,11415,265
+216, The court in Pabianice, The court in Montenegro,,547,287
+217," school teacher incurrently detained in Siemianowice Śląskie, Poland"," school teacher incurrently detained in Siemianowice Śląskie, Yemen",,16795,27412
+218," into existence in Jarosław, Poland"," into existence in Jarosław, Morocco",,16795,40983
+219, in the area of Koszalin, in the area of Mauritius,,19337,3750
+220," in the territory of Poznań, Poland"," in the territory of Poznań, Romania",,16795,34262
+221," school teacher incurrently detained in Opole, Poland"," school teacher incurrently detained in Opole, Turkey",,16795,14307
+222, in the area of Wrocław, in the area of French Southern Territories,,1403,2370
+223, The court heard evidence in Lublin, The court heard evidence in Fiji,,21751,27520
+224, in the area of Józefosław, in the area of Cote d'Ivoire,,1403,603
+225, The court heard evidence in Mieścisko, The court heard evidence in United States Minor Outlying Islands,,80,18708
+226, lawyers practising in Kraków, lawyers practising in Andorra,,18538,376
+227, The court in Glasgow, The court in Korea,,31127,9733
+228," school teacher incurrently detained in Bielawa, Poland"," school teacher incurrently detained in Bielawa, Congo",,16795,37642
+229," in the territory of Zabrze, Poland"," in the territory of Zabrze, Ecuador",,16795,40145
+230," school teacher incurrently detained in Toruń, Poland"," school teacher incurrently detained in Toruń, Congo",,16795,37642
+231," in the area of Zakopane, Poland"," in the area of Zakopane, Yemen",,16795,27412
+232, lawyers practising in Poznań, lawyers practising in United States Virgin Islands,,20729,18708
+233, The court heard evidence in London, The court heard evidence in Israel,,4693,5143
+234, lawyers practising in Lublin, lawyers practising in Togo,,21751,24912
+235, in the territory of Devon, in the territory of Chad,,40316,34884
+236," in the territory of Gdańsk, Poland"," in the territory of Gdańsk, Sudan",,16795,27325
+237, into existence in Strzelce Opolskie, into existence in Strzelce Eritrea,,38703,15593
+238," in the territory of Dąbrowa Górnicza, Poland"," in the territory of Dąbrowa Górnicza, Congo",,16795,37642
+239, in the area of Tarnowskie Góry Prison, in the area of Tarnowskie Góry Austria,,31083,21753
+240, in the territory of Koszalin Detention Centre, in the territory of Koszalin Detention Congo,,12169,37642
+241, in the area of Wrocław, in the area of New Caledonia,,1403,9409
+242, school teacher incurrently detained in Londonderry, school teacher incurrently detained in Vanuatu,,610,37577
+243, lawyers practising in Łódź, lawyers practising in Heard Island and McDonald Islands,,120,18708
+244," The court heard evidence in Wizna, Poland"," The court heard evidence in Wizna, Norway",,16795,20341
+245, in the area of Łódź, in the area of Saint Pierre and Miquelon,,120,46842
+246, The court heard evidence in Paris, The court heard evidence in France,,7785,6181
+247, in the territory of Paris, in the territory of Israel,,7785,5143
+248, in the territory of Paris, in the territory of Japan,,7785,4047
+249, in the territory of Neuilly-sur-Seine, in the territory of Neuilly-sur-Denmark,,460,22783
+250, lawyers practising in Van, lawyers practising in Brazil,,10049,10869
+251," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, Equatorial Guinea",,32620,34410
+252, The court heard evidence in Lummen (Belgium), The court heard evidence in Lummen Northern Mariana Islands,,10,18708
+253, into existence in Istanbul, into existence in Switzerland,,41460,18908
+254, in the territory of Ossès, in the territory of Micronesia,,12713,571
+255, school teacher incurrently detained in İzmir, school teacher incurrently detained in United States of America,,17001,3968
+256, school teacher incurrently detained in Warszawa, school teacher incurrently detained in Seychelles,,11415,265
+257, into existence in Aydın, into existence in Micronesia,,19806,571
+258, The court heard evidence in Tczew, The court heard evidence in Equatorial Guinea,,999,34410
+259, in the territory of Białystok, in the territory of Wallis and Futuna,,536,9821
+260, in the territory of Istanbul, in the territory of Thailand,,41460,23174
+261, The court in Śmiłowo, The court in Heard Island and McDonald Islands,,80,18708
+262," lawyers practising in Szczecin, Poland"," lawyers practising in Szczecin, Ecuador",,16795,40145
+263, school teacher incurrently detained in Istanbul, school teacher incurrently detained in Hungary,,41460,29171
+264, The court heard evidence in Warszawa, The court heard evidence in Mauritania,,11415,571
+265, in the territory of Izmir, in the territory of Bahamas,,17001,33122
+266, in the area of Germany, in the area of India,,6176,5427
+267, in the area of Wrocław, in the area of Madagascar,,1403,274
+268," The court heard evidence in Warsaw, Poland"," The court heard evidence in Warsaw, Zimbabwe",,16795,38581
+269, The court heard evidence in Buca District, The court heard evidence in Buca Australia,,4412,6976
+270, into existence in Antwerp, into existence in American Samoa,,47952,12354
+271, in the area of Istanbul, in the area of Qatar,,41460,38372
+272, lawyers practising in Diyarbakır, lawyers practising in Wallis and Futuna,,43159,9821
+273," lawyers practising in Wrocław, Poland"," lawyers practising in Wrocław, Iceland",,16795,28651
+274, school teacher incurrently detained in Ankara, school teacher incurrently detained in Hong Kong,,4595,13591
+275, into existence in Istanbul, into existence in Denmark,,41460,22783
+276, The court heard evidence in Olsztyn, The court heard evidence in Wallis and Futuna,,79,9821
+277, school teacher incurrently detained in Gdynia, school teacher incurrently detained in Western Sahara,,571,4595
+278, school teacher incurrently detained in Nicosia, school teacher incurrently detained in Liechtenstein,,571,6339
+279, in the area of Turkey, in the area of Peru,,14307,31805
+280, The court heard evidence in Istanbul, The court heard evidence in Italy,,41460,9972
+281, The court heard evidence in Istanbul, The court heard evidence in Ireland,,41460,11011
+282," in the area of Wrocław, Poland"," in the area of Wrocław, Malta",,16795,47832
+283, into existence in Istanbul, into existence in Switzerland,,41460,18908
+284, school teacher incurrently detained in Istanbul, school teacher incurrently detained in Iceland,,41460,28651
+285," school teacher incurrently detained in Łódź, Poland"," school teacher incurrently detained in Łódź, Norway",,16795,20341
+286," in the territory of Zamość, Poland"," in the territory of Zamość, Egypt",,16795,10253
+287, in the area of Siberia, in the area of Liberia,,571,571
+288, in the area of Trabzon, in the area of Tuvalu,,5894,86
+289, into existence in Istanbul, into existence in Ukraine,,41460,17111
+290, The court in Nicosia, The court in Tokelau,,571,1952
+291, into existence in Istanbul, into existence in Pakistan,,41460,13115
+292, in the area of Gdańsk, in the area of Madagascar,,3319,274
+293, The court in Ankara (Turkey, The court in Ankara Anguilla,,2364,6077
+294, The court in Ankara, The court in Norfolk Island,,4595,8451
+295, in the territory of Nicosia, in the territory of American Samoa,,571,12354
+296, The court in Warsaw, The court in Philippines,,40431,22075
+297, lawyers practising in Warsaw, lawyers practising in Kuwait,,40431,46614
+298, school teacher incurrently detained in Ayios Amvrosios, school teacher incurrently detained in Ayios Uzbekistan,,3783,7399
+299, The court in Istanbul, The court in Hungary,,41460,29171
+300, in the area of Iran, in the area of France,,7751,6181
+301," The court in Bełchatów, Poland"," The court in Bełchatów, Italy",,16795,9972
+302, The court heard evidence in Diyarbakır, The court heard evidence in Kyrgyz Republic,,43159,4687
+303, in the area of Şırnak, in the area of Timor-Leste,,518,16300
+304," The court heard evidence in Kraków, Poland"," The court heard evidence in Kraków, Cuba",,16795,24605
+305," lawyers practising in Łódź, Poland"," lawyers practising in Łódź, Cuba",,16795,24605
+306, lawyers practising in Turkey, lawyers practising in Malta,,14307,47832
+307, lawyers practising in Trabzon, lawyers practising in French Guiana,,5894,8960
+308, The court heard evidence in Trzebnica, The court heard evidence in Wallis and Futuna,,3737,9821
+309, school teacher incurrently detained in Turkey, school teacher incurrently detained in Morocco,,14307,40983
+310, school teacher incurrently detained in Diyarbakır, school teacher incurrently detained in Wallis and Futuna,,43159,9821
+311, in the territory of Budapest, in the territory of Thailand,,50086,23174
+312," The court in Olsztyn, Poland"," The court in Olsztyn, Pakistan",,16795,13115
+313, The court in Poznań, The court in French Southern Territories,,20729,2370
+314, in the territory of Istanbul, in the territory of Turkey,,41460,14307
+315, school teacher incurrently detained in Warszawa, school teacher incurrently detained in Tajikistan,,11415,7399
+316, school teacher incurrently detained in Glinica, school teacher incurrently detained in Andorra,,3737,376
+317, The court heard evidence in Turkey, The court heard evidence in Korea,,14307,9733
+318, school teacher incurrently detained in Samsun, school teacher incurrently detained in Moldova,,328,8947
+319, The court heard evidence in Uherce Mineralne, The court heard evidence in Uherce Western Sahara,,570,4595
+320, The court in London, The court in Israel,,4693,5143
+321, The court in Manchester, The court in Austria,,17427,21753
+322, into existence in Stockholm, into existence in Panama,,38476,37783
+323," The court heard evidence in Human Rights Building, Strasbourg"," The court heard evidence in Human Rights Building, Guadeloupe",,32620,37841
+324, The court heard evidence in London, The court heard evidence in China,,4693,4135
+325, into existence in Stockholm, into existence in Chad,,38476,34884
+326," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, British Virgin Islands",,32620,18708
+327, in the area of Västra Frölunda in the South-West of Sweden, in the area of Västra Frölunda in the South-West of Qatar,,16842,38372
+328, lawyers practising in London, lawyers practising in Jordan,,4693,13268
+329," The court in Human Rights Building, Strasbourg"," The court in Human Rights Building, Cameroon",,32620,251
+330, The court in Sundborn, The court in Tunisia,,6448,30160
+331, into existence in Newcastle-upon-Tyne, into existence in Newcastle-upon-Gabon,,570,251
+332, into existence in London, into existence in Mexico,,4693,8987
+333, The court heard evidence in Sweden, The court heard evidence in Iceland,,16842,28651
+334, lawyers practising in England, lawyers practising in Jordan,,5854,13268
+335, lawyers practising in Oslo, lawyers practising in Kenya,,43516,27946
+336, in the territory of Karlskrona, in the territory of Papua New Guinea,,66,34410
+337, in the area of Mattighofen, in the area of Montenegro,,257,287
+338, lawyers practising in Prague, lawyers practising in Finland,,41577,25270
+339, The court heard evidence in Brazil, The court heard evidence in Canada,,10869,6144
+340, into existence in Bregenz, into existence in Liechtenstein,,91,6339
+341, The court in London, The court in France,,4693,6181
+342, into existence in Ried, into existence in Saint Lucia,,728,47040
+343, in the territory of Tristach, in the territory of Zambia,,607,571
+344, The court in Sweden, The court in Zimbabwe,,16842,38581
+345, in the area of Innsbruck, in the area of Swaziland,,32068,395
+346, in the territory of Stockholm, in the territory of Niger,,38476,32345
+347, school teacher incurrently detained in County of Kronoberg, school teacher incurrently detained in County of United States Virgin Islands,,72,18708
+348, in the area of London, in the area of Israel,,4693,5143
+349, The court in Vienna, The court in Chile,,26229,22755
+350, The court heard evidence in Kristianstad, The court heard evidence in Mauritius,,25134,3750
+351, in the area of Gothenburg, in the area of Andorra,,6121,376
+352," The court heard evidence in Birmingham, England"," The court heard evidence in Birmingham, China",,5854,4135
+353, in the territory of Lebanon, in the territory of Venezuela,,28746,27608
+354, in the area of Wembley, in the area of Saint Barthelemy,,90,2577
+355, into existence in Mattighofen, into existence in New Caledonia,,257,9409
+356, in the territory of Lochau, in the territory of Turkmenistan,,1952,7399
+357, in the area of Vienna, in the area of Morocco,,26229,40983
+358, The court in London, The court in France,,4693,6181
+359, school teacher incurrently detained in Berlin, school teacher incurrently detained in Peru,,12911,31805
+360, school teacher incurrently detained in Bucharest, school teacher incurrently detained in Norfolk Island,,4885,8451
+361, school teacher incurrently detained in York, school teacher incurrently detained in Iran,,2816,7751
+362, in the territory of London, in the territory of China,,4693,4135
+363, The court in Linz, The court in Latvia,,91,13917
+364, school teacher incurrently detained in London, school teacher incurrently detained in Iran,,4693,7751
+365, in the territory of London, in the territory of Jordan,,4693,13268
+366, The court heard evidence in Austria, The court heard evidence in Kenya,,21753,27946
+367, The court in Hamburg, The court in Indonesia,,38343,23340
+368, The court in Vienna, The court in Chad,,26229,34884
+369, in the area of New York, in the area of New France,,2816,6181
+370, school teacher incurrently detained in Woking, school teacher incurrently detained in Reunion,,6856,20172
+371, The court in Rockwood Base, The court in Rockwood France,,11760,6181
+372, The court heard evidence in London, The court heard evidence in Brazil,,4693,10869
+373, into existence in Frastanz, into existence in Paraguay,,11670,333
+374, school teacher incurrently detained in Birmingham, school teacher incurrently detained in Romania,,26846,34262
+375, in the territory of London, in the territory of India,,4693,5427
+376, The court heard evidence in United Kingdom, The court heard evidence in United Portugal,,11491,24084
+377, The court in Lillestrøm, The court in Antigua and Barbuda,,78,14776
+378, lawyers practising in Birmingham, lawyers practising in Denmark,,26846,22783
+379," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, Tuvalu",,32620,86
+380, The court heard evidence in Berlin, The court heard evidence in Korea,,12911,9733
+381, school teacher incurrently detained in Århus, school teacher incurrently detained in Maldives,,316,1644
+382, school teacher incurrently detained in Graz, school teacher incurrently detained in Togo,,5744,24912
+383, The court in Norway, The court in Thailand,,20341,23174
+384, lawyers practising in Vienna, lawyers practising in Peru,,26229,31805
+385, school teacher incurrently detained in Switzerland, school teacher incurrently detained in Georgia,,18908,12096
+386, lawyers practising in London, lawyers practising in Israel,,4693,5143
+387, lawyers practising in London, lawyers practising in Germany,,4693,6176
+388, The court heard evidence in Krems, The court heard evidence in Dominica,,983,3737
+389, school teacher incurrently detained in Brussels, school teacher incurrently detained in Congo,,30167,37642
+390, in the territory of Stockholm, in the territory of Chile,,38476,22755
+391, school teacher incurrently detained in Sweden, school teacher incurrently detained in Ghana,,16842,34905
+392, into existence in Åbyhøj, into existence in Wallis and Futuna,,75,9821
+393, lawyers practising in Vienna, lawyers practising in Finland,,26229,25270
+394, in the area of Higher Whitley Conservation Area, in the area of Higher Whitley Conservation Canada,,14564,6144
+395, school teacher incurrently detained in London, school teacher incurrently detained in Canada,,4693,6144
+396, into existence in Austria, into existence in Malta,,21753,47832
+397, into existence in Linz, into existence in South Africa,,91,7531
+398, school teacher incurrently detained in Vienna, school teacher incurrently detained in Jersey,,26229,8911
+399, into existence in Erlenbach, into existence in Guadeloupe,,16836,37841
+400, The court in Grieskirchen, The court in Kyrgyz Republic,,864,4687
+401, The court in Haina, The court in Maldives,,66,1644
+402, school teacher incurrently detained in London, school teacher incurrently detained in China,,4693,4135
+403, into existence in Stockholm, into existence in Ukraine,,38476,17111
+404," school teacher incurrently detained in Piesendorf, Salzburg"," school teacher incurrently detained in Piesendorf, Tokelau",,6121,1952
+405, into existence in London, into existence in Spain,,4693,11268
+406, in the territory of Vienna, in the territory of Ghana,,26229,34905
+407, The court heard evidence in London, The court heard evidence in Spain,,4693,11268
+408, The court in Wels, The court in Mali,,1241,74
+409, school teacher incurrently detained in Hirtenberg, school teacher incurrently detained in Mauritius,,4978,3750
+410, into existence in London, into existence in India,,4693,5427
+411, into existence in Scotland, into existence in Netherlands,,13944,16333
+412, The court in Guildhall Square, The court in Guildhall Egypt,,15894,10253
+413, in the territory of Düsseldorf, in the territory of Saint Barthelemy,,34760,2577
+414, in the area of Oslo, in the area of Hungary,,43516,29171
+415, in the territory of Oslo, in the territory of Cyprus,,43516,44637
+416, into existence in Vienna, into existence in Congo,,26229,37642
+417, The court heard evidence in Texas, The court heard evidence in China,,6112,4135
+418, school teacher incurrently detained in Wels, school teacher incurrently detained in Monaco,,1241,15861
+419, into existence in Vienna, into existence in Sudan,,26229,27325
+420, The court heard evidence in London, The court heard evidence in Australia,,4693,6976
+421, into existence in Glasgow, into existence in Zimbabwe,,31127,38581
+422, lawyers practising in Giessen, lawyers practising in Latvia,,48540,13917
+423, The court heard evidence in Lund, The court heard evidence in Switzerland,,38899,18908
+424, in the territory of Amstetten, in the territory of Northern Mariana Islands,,1866,18708
+425, into existence in London, into existence in Jordan,,4693,13268
+426, in the area of Copenhagen, in the area of Yemen,,40892,27412
+427, in the area of London, in the area of China,,4693,4135
+428, in the area of London, in the area of Germany,,4693,6176
+429, lawyers practising in London, lawyers practising in India,,4693,5427
+430, lawyers practising in London, lawyers practising in Japan,,4693,4047
+431, lawyers practising in Hessen, lawyers practising in Latvia,,257,13917
+432, The court heard evidence in Germany, The court heard evidence in Israel,,6176,5143
+433, lawyers practising in Dublin, lawyers practising in Poland,,24523,16795
+434, in the territory of New York, in the territory of New Japan,,2816,4047
+435, school teacher incurrently detained in Geneva, school teacher incurrently detained in Sudan,,31955,27325
+436, The court in Vienna, The court in Ireland,,26229,11011
+437, lawyers practising in London, lawyers practising in Iran,,4693,7751
+438, in the area of Bregenz, in the area of Suriname,,91,482
+439, lawyers practising in Tettnang, lawyers practising in Montserrat,,606,255
+440, lawyers practising in Vienna, lawyers practising in Sweden,,26229,16842
+441, lawyers practising in Kosovo, lawyers practising in Tanzania,,48863,45914
+442, The court heard evidence in Dover, The court heard evidence in Pakistan,,49426,13115
+443, school teacher incurrently detained in Vienna, school teacher incurrently detained in Niger,,26229,32345
+444, The court heard evidence in Austria, The court heard evidence in Vietnam,,21753,15732
+445, school teacher incurrently detained in Vienna, school teacher incurrently detained in Romania,,26229,34262
+446, school teacher incurrently detained in London, school teacher incurrently detained in Spain,,4693,11268
+447, in the territory of Bayreuth, in the territory of Anguilla,,3097,6077
+448, into existence in Belfast, into existence in Philippines,,44867,22075
+449, school teacher incurrently detained in Vienna, school teacher incurrently detained in Malta,,26229,47832
+450, in the territory of Isle of Man, in the territory of Isle of Canada,,3083,6144
+451, in the area of Manchester, in the area of Cuba,,17427,24605
+452, The court in Austria, The court in Finland,,21753,25270
+453, into existence in London, into existence in Japan,,4693,4047
+454, into existence in Lochau, into existence in Comoros,,1952,375
+455," into existence in London, England"," into existence in London, Germany",,5854,6176
+456, The court heard evidence in London, The court heard evidence in France,,4693,6181
+457, The court in Mattighofen, The court in Montenegro,,257,287
+458, The court in London, The court in Germany,,4693,6176
+459," into existence in Windsor, England"," into existence in Windsor, Brazil",,5854,10869
+460, school teacher incurrently detained in Berlin, school teacher incurrently detained in Hungary,,12911,29171
+461, in the territory of United States of America, in the territory of United States of Spain,,3968,11268
+462, The court heard evidence in Oslo, The court heard evidence in Ireland,,43516,11011
+463, into existence in Strasbourg, into existence in British Virgin Islands,,32620,18708
+464, lawyers practising in London, lawyers practising in China,,4693,4135
+465, in the territory of Vienna, in the territory of Jersey,,26229,8911
+466, in the area of Sweden, in the area of Hungary,,16842,29171
+467, The court in United Kingdom, The court in United Jersey,,11491,8911
+468, The court heard evidence in Belfast, The court heard evidence in Croatia,,44867,42862
+469, school teacher incurrently detained in United Kingdom, school teacher incurrently detained in United Switzerland,,11491,18908
+470, into existence in Vienna, into existence in Yemen,,26229,27412
+471, in the area of Möchengladbach, in the area of Saint Kitts and Nevis,,16836,261
+472, The court heard evidence in London, The court heard evidence in Canada,,4693,6144
+473," in the area of Imst, Austria"," in the area of Imst, Niger",,21753,32345
+474, school teacher incurrently detained in Northern Ireland, school teacher incurrently detained in Northern Norway,,11011,20341
+475, The court in Surrey, The court in Greenland,,5292,1373
+476, in the area of Trondheim, in the area of Vanuatu,,17563,37577
+477," into existence in Surrey, England"," into existence in Surrey, Germany",,5854,6176
+478, in the area of London, in the area of India,,4693,5427
+479, lawyers practising in London, lawyers practising in France,,4693,6181
+480, in the territory of Hull, in the territory of Belgium,,42432,22785
+481, in the area of London, in the area of Israel,,4693,5143
+482, in the territory of United States of America, in the territory of United States of Canada,,3968,6144
+483," into existence in Großbottwar, Germany"," into existence in Großbottwar, Australia",,6176,6976
+484, in the territory of Austria, in the territory of Ghana,,21753,34905
+485, lawyers practising in Neulengbach, lawyers practising in Montenegro,,16836,287
+486," The court heard evidence in Wesel, Germany"," The court heard evidence in Wesel, Jordan",,6176,13268
+487, school teacher incurrently detained in İzmir (Turkey), school teacher incurrently detained in İzmir Botswana,,10,3230
+488, in the territory of Izmir, in the territory of Moldova,,17001,8947
+489, The court in London, The court in Germany,,4693,6176
+490, in the territory of Istanbul, in the territory of Cuba,,41460,24605
+491, in the territory of Edirne, in the territory of Western Sahara,,570,4595
+492, in the territory of Kuşadası, in the territory of Papua New Guinea,,5588,34410
+493, The court heard evidence in Nürnberg, The court heard evidence in New Caledonia,,4978,9409
+494, The court in Istanbul, The court in Poland,,41460,16795
+495, lawyers practising in Istanbul, lawyers practising in Switzerland,,41460,18908
+496, in the area of Istanbul, in the area of Hungary,,41460,29171
+497, in the territory of İzmir, in the territory of New Caledonia,,17001,9409
+498, lawyers practising in Istanbul, lawyers practising in Panama,,41460,37783
+499, in the territory of Diyarbakır, in the territory of Wallis and Futuna,,43159,9821
+500, The court in Istanbul airport, The court in Istanbul Sudan,,13952,27325
+501, in the territory of Diyarbakır, in the territory of Timor-Leste,,43159,16300
+502, in the area of Germany, in the area of China,,6176,4135
+503, The court heard evidence in Istanbul, The court heard evidence in Jersey,,41460,8911
+504, in the territory of Mersin, in the territory of British Virgin Islands,,249,18708
+505, The court heard evidence in Istanbul, The court heard evidence in Romania,,41460,34262
+506, school teacher incurrently detained in Ankara, school teacher incurrently detained in Saudi Arabia,,4595,20498
+507, into existence in Diyarbakır, into existence in Kyrgyz Republic,,43159,4687
+508, in the territory of Istanbul, in the territory of Qatar,,41460,38372
+509, into existence in Beşiktaş district, into existence in Beşiktaş Canada,,3286,6144
+510, The court heard evidence in Istanbul, The court heard evidence in Guinea,,41460,34410
+511, in the territory of Turkey, in the territory of Morocco,,14307,40983
+512, lawyers practising in Bursa, lawyers practising in British Virgin Islands,,66,18708
+513, The court heard evidence in Ankara, The court heard evidence in Saudi Arabia,,4595,20498
+514, The court heard evidence in Trabzon, The court heard evidence in Faroe Islands,,5894,18708
+515, The court heard evidence in Syria, The court heard evidence in Denmark,,12728,22783
+516, school teacher incurrently detained in Balıkesir, school teacher incurrently detained in Madagascar,,343,274
+517, The court heard evidence in Turkey, The court heard evidence in Norway,,14307,20341
+518, lawyers practising in Diyarbakır, lawyers practising in Wallis and Futuna,,43159,9821
+519, in the area of Ankara, in the area of Albania,,4595,571
+520, school teacher incurrently detained in İstanbul, school teacher incurrently detained in San Marino,,36563,2610
+521, in the area of İzmir, in the area of Botswana,,17001,3230
+522, The court heard evidence in Diyarbakır, The court heard evidence in Timor-Leste,,43159,16300
+523, lawyers practising in Diyarbakır, lawyers practising in Wallis and Futuna,,43159,9821
+524, school teacher incurrently detained in Diyarbakır, school teacher incurrently detained in Wallis and Futuna,,43159,9821
+525, The court heard evidence in Istanbul, The court heard evidence in Finland,,41460,25270
+526, in the territory of Ankara, in the territory of Dominica,,4595,3737
+527, school teacher incurrently detained in Mersin, school teacher incurrently detained in Paraguay,,249,333
+528, in the territory of Diyarbakır, in the territory of Timor-Leste,,43159,16300
+529," in the area of Freiburg, Switzerland"," in the area of Freiburg, Serbia",,18908,37959
+530, into existence in Diyarbakır, into existence in Timor-Leste,,43159,16300
+531, school teacher incurrently detained in Eskiizmir district, school teacher incurrently detained in Eskiizmir Spain,,3286,11268
+532, in the territory of America, in the territory of France,,3968,6181
+533, in the territory of police station, in the territory of police France,,4660,6181
+534, The court heard evidence in Mersin, The court heard evidence in San Marino,,249,2610
+535, in the area of Van, in the area of Iran,,10049,7751
+536, in the territory of Nicosia, in the territory of Central African Republic,,571,4687
+537, into existence in Amasya, into existence in Zambia,,5973,571
+538, lawyers practising in Diyarbakır, lawyers practising in Wallis and Futuna,,43159,9821
+539, The court heard evidence in Istanbul, The court heard evidence in Malta,,41460,47832
+540, into existence in Mardin, into existence in Bermuda,,249,14776
+541, lawyers practising in Istanbul, lawyers practising in Panama,,41460,37783
+542, The court in Istanbul, The court in Austria,,41460,21753
+543, The court heard evidence in bus stop, The court heard evidence in bus India,,3523,5427
+544, into existence in Diyarbakır, into existence in Timor-Leste,,43159,16300
+545, in the territory of Istanbul, in the territory of Portugal,,41460,24084
+546, school teacher incurrently detained in London, school teacher incurrently detained in Israel,,4693,5143
+547, lawyers practising in Istanbul, lawyers practising in Georgia,,41460,12096
+548, into existence in Istanbul, into existence in Norway,,41460,20341
+549, The court heard evidence in Istanbul, The court heard evidence in Cuba,,41460,24605
+550, in the area of Kocaeli, in the area of Botswana,,74,3230
+551, lawyers practising in Istiklal Street, lawyers practising in Istiklal Jordan,,5720,13268
+552, school teacher incurrently detained in Nicosia, school teacher incurrently detained in United Arab Emirates,,571,47229
+553, into existence in Diyarbakır, into existence in Timor-Leste,,43159,16300
+554, into existence in Diyarbakır, into existence in Timor-Leste,,43159,16300
+555, in the area of İzmir, in the area of Saint Barthelemy,,17001,2577
+556, The court heard evidence in Istanbul, The court heard evidence in Niger,,41460,32345
+557, into existence in Nazilli, into existence in Bahrain,,3370,1949
+558, The court heard evidence in Antalya, The court heard evidence in Uruguay,,66,333
+559, in the area of Turkey, in the area of Austria,,14307,21753
+560, in the territory of Istanbul, in the territory of Qatar,,41460,38372
+561, school teacher incurrently detained in Bursa, school teacher incurrently detained in Burundi,,66,74
+562, lawyers practising in Ankara, lawyers practising in Mongolia,,4595,25119
+563, into existence in northern part of Cyprus, into existence in northern part of Cuba,,44637,24605
+564, into existence in London, into existence in Mexico,,4693,8987
+565, in the area of Mersin, in the area of Anguilla,,249,6077
+566, The court in Başbağlar village, The court in Başbağlar Iceland,,7773,28651
+567, lawyers practising in İzmir, lawyers practising in Swaziland,,17001,395
+568, into existence in Ankara (Turkey), into existence in Ankara Northern Mariana Islands,,10,18708
+569, in the area of Izmir, in the area of Sri Lanka,,17001,31642
+570, school teacher incurrently detained in Mersin, school teacher incurrently detained in Guernsey,,249,5462
+571, lawyers practising in Istanbul, lawyers practising in Sudan,,41460,27325
+572, lawyers practising in Istanbul, lawyers practising in Vietnam,,41460,15732
+573, in the territory of Bursa, in the territory of North Macedonia,,66,9409
+574, The court in Istanbul, The court in Kenya,,41460,27946
+575, in the area of İzmir, in the area of United States of America,,17001,3968
+576, in the territory of Bursa, in the territory of Andorra,,66,376
+577, in the territory of Şanlıurfa, in the territory of Saint Kitts and Nevis,,6855,261
+578, The court in İstanbul, The court in Guadeloupe,,36563,37841
+579, in the territory of Diyarbakır, in the territory of Timor-Leste,,43159,16300
+580, The court heard evidence in Istanbul, The court heard evidence in Serbia,,41460,37959
+581, The court in Istanbul, The court in Sudan,,41460,27325
+582, The court heard evidence in İstanbul, The court heard evidence in Suriname,,36563,482
+583, lawyers practising in Tatvan, lawyers practising in Dominica,,6148,3737
+584, into existence in Hasancık District, into existence in Hasancık Japan,,4412,4047
+585, The court heard evidence in İstanbul, The court heard evidence in Gibraltar,,36563,17447
+586, lawyers practising in Istanbul, lawyers practising in Belgium,,41460,22785
+587, into existence in Izmir, into existence in Gambia,,17001,571
+588, into existence in Diyarbakır, into existence in Timor-Leste,,43159,16300
+589, The court in Turkey, The court in Jersey,,14307,8911
+590, in the territory of Ankara, in the territory of Solomon Islands,,4595,18708
+591, lawyers practising in Istanbul, lawyers practising in Poland,,41460,16795
+592, into existence in Istanbul, into existence in Korea,,41460,9733
+593, into existence in İzmir, into existence in French Southern Territories,,17001,2370
+594, school teacher incurrently detained in Ankara (Turkey), school teacher incurrently detained in Ankara Montserrat,,10,255
+595, lawyers practising in Istanbul, lawyers practising in Turkey,,41460,14307
+596, school teacher incurrently detained in Istanbul, school teacher incurrently detained in Guinea,,41460,34410
+597, lawyers practising in United Kingdom, lawyers practising in United Vietnam,,11491,15732
+598, The court heard evidence in Kahramanmaraş, The court heard evidence in Brunei Darussalam,,9663,45321
+599, in the area of café, in the area of Kuwait,,36241,46614
+600, The court heard evidence in Istanbul, The court heard evidence in Panama,,41460,37783
+601, lawyers practising in Istanbul, lawyers practising in Congo,,41460,37642
+602, lawyers practising in Diyarbakır, lawyers practising in Timor-Leste,,43159,16300
+603, in the territory of Diyarbakır, in the territory of Kyrgyz Republic,,43159,4687
+604, in the territory of İzmir, in the territory of French Polynesia,,17001,571
+605, The court in Istanbul, The court in Cyprus,,41460,44637
+606, lawyers practising in Adana, lawyers practising in Fiji,,3230,27520
+607, lawyers practising in Zonguldak, lawyers practising in Swaziland,,518,395
+608," lawyers practising in Seewen, Switzerland"," lawyers practising in Seewen, Ecuador",,18908,40145
+609, The court heard evidence in Adana, The court heard evidence in Belize,,3230,907
+610, The court in Izmir, The court in Estonia,,17001,571
+611, The court in Adana, The court in Niue,,3230,489
+612, into existence in Kandıra, into existence in United States Virgin Islands,,376,18708
+613, school teacher incurrently detained in Bursa, school teacher incurrently detained in Nicaragua,,66,45877
+614, into existence in London, into existence in Iran,,4693,7751
+615, The court in Bitlis, The court in Niue,,38466,489
+616, in the area of Van, in the area of Mexico,,10049,8987
+617, lawyers practising in Bursa, lawyers practising in Equatorial Guinea,,66,34410
+618, lawyers practising in Istanbul, lawyers practising in Morocco,,41460,40983
+619, in the territory of Ankara, in the territory of Mongolia,,4595,25119
+620, into existence in Uşak, into existence in Nicaragua,,518,45877
+621, lawyers practising in Istanbul, lawyers practising in Zimbabwe,,41460,38581
+622, school teacher incurrently detained in Ankara, school teacher incurrently detained in Tonga,,4595,66
+623, The court in Van, The court in India,,10049,5427
+624, school teacher incurrently detained in Izmir, school teacher incurrently detained in Albania,,17001,571
+625, lawyers practising in Şanlıurfa Airport, lawyers practising in Şanlıurfa Myanmar,,18328,43828
+626, The court heard evidence in Milli Egemenlik Park, The court heard evidence in Milli Egemenlik Spain,,4913,11268
+627, lawyers practising in Istanbul, lawyers practising in Cyprus,,41460,44637
+628," The court in Human Rights Building, Strasbourg"," The court in Human Rights Building, United Arab Emirates",,32620,47229
+629, school teacher incurrently detained in Muğla (Turkey), school teacher incurrently detained in Muğla French Southern Territories,,10,2370
+630, in the area of Istanbul, in the area of Thailand,,41460,23174
+631, The court in Istanbul, The court in Chile,,41460,22755
+632, into existence in Ayia Napa, into existence in Ayia Niue,,66,489
+633, lawyers practising in Batman, lawyers practising in Chad,,29183,34884
+634, The court in Barcelona, The court in Iceland,,24639,28651
+635, in the area of Paris, in the area of Israel,,7785,5143
+636, The court heard evidence in northern parts, The court heard evidence in northern Jordan,,4243,13268
+637, lawyers practising in Berlin, lawyers practising in Italy,,12911,9972
+638, The court in Vaud, The court in Monaco,,5353,15861
+639, lawyers practising in Hamburg, lawyers practising in Uganda,,38343,35522
+640, The court in Germany, The court in Australia,,6176,6976
+641, into existence in Hauts-de-Seine, into existence in Hauts-de-Greenland,,460,1373
+642," The court in Human Rights Building, Strasbourg"," The court in Human Rights Building, Anguilla",,32620,6077
+643, lawyers practising in Nancy, lawyers practising in Chile,,23397,22755
+644, lawyers practising in Ghent, lawyers practising in British Virgin Islands,,85,18708
+645, lawyers practising in Innsbruck, lawyers practising in United States of America,,32068,3968
+646, in the area of Geneva, in the area of Panama,,31955,37783
+647, lawyers practising in Innsbruck, lawyers practising in United States of America,,32068,3968
+648," The court in Human Rights Building, Strasbourg"," The court in Human Rights Building, North Macedonia",,32620,9409
+649, in the area of Barcelona, in the area of Korea,,24639,9733
+650, The court heard evidence in Germany, The court heard evidence in Spain,,6176,11268
+651, lawyers practising in Madrid, lawyers practising in Romania,,21924,34262
+652, in the territory of Graz, in the territory of Senegal,,5744,42552
+653, lawyers practising in Linz, lawyers practising in Angola,,91,6836
+654, school teacher incurrently detained in Pamplona, school teacher incurrently detained in Turkmenistan,,8440,7399
+655, The court heard evidence in Ireland, The court heard evidence in Cuba,,11011,24605
+656, The court in Germany, The court in Canada,,6176,6144
+657, in the territory of Austria, in the territory of Egypt,,21753,10253
+658, The court in Brumath, The court in Rwanda,,506,7447
+659, The court in Craigavon, The court in Isle of Man,,251,3083
+660, in the territory of Mönchengladbach, in the territory of Saint Pierre and Miquelon,,16836,46842
+661," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, French Guiana",,32620,8960
+662, lawyers practising in Berlin, lawyers practising in Pakistan,,12911,13115
+663, in the area of Geneva, in the area of Chile,,31955,22755
+664," in the territory of Human Rights Building, Strasbourg"," in the territory of Human Rights Building, Micronesia",,32620,571
+665," in the territory of rue Saint-Léger, Geneva"," in the territory of rue Saint-Léger, Finland",,31955,25270
+666, The court in Vienna, The court in Ireland,,26229,11011
+667, The court heard evidence in Colombes, The court heard evidence in Gambia,,265,571
+668, into existence in Lancashire, into existence in Mauritania,,603,571
+669, The court in Neuilly-sur-Seine, The court in Neuilly-sur-Kenya,,460,27946
+670," The court heard evidence in Human Rights Building, Strasbourg"," The court heard evidence in Human Rights Building, Turkmenistan",,32620,7399
+671, in the territory of Berlin, in the territory of Italy,,12911,9972
+672, school teacher incurrently detained in Dachau, school teacher incurrently detained in Zambia,,1952,571
+673, in the area of Northern Ireland, in the area of Northern Guinea,,11011,34410
+674, into existence in Gibraltar, into existence in North Macedonia,,17447,9409
+675," The court in Human Rights Building, Strasbourg"," The court in Human Rights Building, Central African Republic",,32620,4687
+676, into existence in French Guiana, into existence in French Angola,,8960,6836
+677, The court heard evidence in Germany, The court heard evidence in Spain,,6176,11268
+678, school teacher incurrently detained in Vienna, school teacher incurrently detained in Sweden,,26229,16842
+679, in the territory of Vesdre, in the territory of Seychelles,,250,265
+680," in the area of Human Rights Building, Strasbourg"," in the area of Human Rights Building, Cameroon",,32620,251
+681, lawyers practising in Madrid, lawyers practising in Jersey,,21924,8911
+682, in the area of Paris, in the area of France,,7785,6181
+683, school teacher incurrently detained in Mönchengladbach, school teacher incurrently detained in Saint Kitts and Nevis,,16836,261
+684, in the area of Lumbier, in the area of Tokelau,,1321,1952
+685, school teacher incurrently detained in Vigo, school teacher incurrently detained in United Kingdom,,15973,11491
+686, lawyers practising in La Roca del Vallès, lawyers practising in La Roca del Tunisia,,12713,30160
+687, The court heard evidence in Vienna, The court heard evidence in Zimbabwe,,26229,38581
+688, in the territory of Saint-Jean-de-Luz, in the territory of Saint-Jean-de-Congo,,91,37642
+689, school teacher incurrently detained in Turkey, school teacher incurrently detained in Thailand,,14307,23174
+690, into existence in Champagny-en-Vanoise, into existence in Champagny-en-Liechtenstein,,885,6339
+691, school teacher incurrently detained in Ameisberg, school teacher incurrently detained in United States Virgin Islands,,4978,18708
+692, The court heard evidence in Ghent, The court heard evidence in Eritrea,,85,15593
+693, in the area of Saint-Didier-au-Mont-d’Or, in the area of Saint-Didier-au-Mont-Norfolk Island,,3980,8451
+694, lawyers practising in Paris, lawyers practising in Mexico,,7785,8987
+695, The court heard evidence in Geneva, The court heard evidence in Ireland,,31955,11011
+696," in the territory of Human Rights Building, Strasbourg"," in the territory of Human Rights Building, Guernsey",,32620,5462
+697, lawyers practising in Königstetten, lawyers practising in Heard Island and McDonald Islands,,1866,18708
+698, The court in France, The court in Mexico,,6181,8987
+699, in the area of Paris, in the area of Germany,,7785,6176
+700, into existence in Visby, into existence in Guyana,,1615,3230
+701," in the territory of Human Rights Building, Strasbourg"," in the territory of Human Rights Building, Faroe Islands",,32620,18708
+702, into existence in Wiesbaden, into existence in United States of America,,12670,3968
+703, into existence in Düsseldorf, into existence in New Caledonia,,34760,9409
+704, in the area of Lausanne, in the area of Eritrea,,17416,15593
+705, lawyers practising in Lincoln, lawyers practising in Qatar,,15915,38372
+706, The court heard evidence in Hamburg, The court heard evidence in Cambodia,,38343,41984
+707, into existence in Tyresö, into existence in American Samoa,,2381,12354
+708, The court heard evidence in Vienna, The court heard evidence in Georgia,,26229,12096
+709, lawyers practising in London, lawyers practising in India,,4693,5427
+710, in the area of La Ferté-Macé, in the area of La Ferté-Qatar,,860,38372
+711, in the area of Valencia, in the area of Norway,,47137,20341
+712," lawyers practising in Human Rights Building, Strasbourg"," lawyers practising in Human Rights Building, Cameroon",,32620,251
+713, in the area of Krems, in the area of Czech Republic,,983,4687
+714, in the area of Paris, in the area of Iran,,7785,7751
+715," in the area of Human Rights Building, Strasbourg"," in the area of Human Rights Building, Vanuatu",,32620,37577
+716, The court heard evidence in Saint-Jean-de-Luz, The court heard evidence in Saint-Jean-de-Iceland,,91,28651
+717, The court heard evidence in Strasbourg, The court heard evidence in Faroe Islands,,32620,18708
+718, into existence in Mattighofen, into existence in Saint Barthelemy,,257,2577
+719," The court heard evidence in Human Rights Building, Strasbourg"," The court heard evidence in Human Rights Building, Gibraltar",,32620,17447
+720, school teacher incurrently detained in Starnberg, school teacher incurrently detained in Burundi,,4978,74
+721," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, Lesotho",,32620,80
+722, The court in Hamar, The court in Belize,,274,907
+723, into existence in Zürich, into existence in Turkmenistan,,5969,7399
+724, in the area of Vienna, in the area of Singapore,,26229,16861
+725, in the area of Ostermiething, in the area of Djibouti,,1526,74
+726, The court in Graz, The court in Russian Federation,,5744,20369
+727, into existence in Muret Prison, into existence in Muret Pakistan,,31083,13115
+728, lawyers practising in Neustift, lawyers practising in Faroe Islands,,2094,18708
+729," The court heard evidence in Human Rights Building, Strasbourg"," The court heard evidence in Human Rights Building, Tuvalu",,32620,86
+730, in the territory of Graz, in the territory of Mali,,5744,74
+731, lawyers practising in Spain, lawyers practising in Iran,,11268,7751
+732, lawyers practising in Westcliff, lawyers practising in Maldives,,1648,1644
+733, The court in France, The court in Spain,,6181,11268
+734, into existence in Marseilles, into existence in Cameroon,,18810,251
+735, The court heard evidence in Offenburg, The court heard evidence in Guam,,40260,312
+736, lawyers practising in Saverne, lawyers practising in Burundi,,570,74
+737, into existence in Lüneburg, into existence in United States of America,,6121,3968
+738, in the territory of Berlin, in the territory of Panama,,12911,37783
+739, The court heard evidence in Vienna, The court heard evidence in Finland,,26229,25270
+740, into existence in Berlin, into existence in Morocco,,12911,40983
+741, lawyers practising in Bologna, lawyers practising in Lesotho,,2072,80
+742, lawyers practising in Rees, lawyers practising in Guam,,265,312
+743, The court heard evidence in Bilbao, The court heard evidence in Cape Verde,,80,615
+744, The court heard evidence in Germany, The court heard evidence in India,,6176,5427
+745, in the area of Vienna, in the area of Qatar,,26229,38372
+746, in the area of Switzerland, in the area of Chile,,18908,22755
+747, school teacher incurrently detained in Villeurbanne, school teacher incurrently detained in Uzbekistan,,17416,7399
+748, school teacher incurrently detained in Switzerland, school teacher incurrently detained in Ukraine,,18908,17111
+749," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, Western Sahara",,32620,4595
+750, in the area of Aachen Prison, in the area of Aachen Italy,,31083,9972
+751, in the territory of Melk, in the territory of Senegal,,76,42552
+752, in the territory of Nantes, in the territory of Saint Lucia,,20302,47040
+753, into existence in Linz, into existence in Angola,,91,6836
+754, The court in Paris, The court in Canada,,7785,6144
+755, into existence in Hanseatic City of Hamburg, into existence in Hanseatic City of Argentina,,38343,23881
+756, school teacher incurrently detained in Austria, school teacher incurrently detained in Guinea,,21753,34410
+757, in the area of Straubing Prison, in the area of Straubing Chile,,31083,22755
+758," in the area of Human Rights Building, Strasbourg"," in the area of Human Rights Building, Tuvalu",,32620,86
+759, The court heard evidence in Brussels, The court heard evidence in Morocco,,30167,40983
+760, into existence in Munich, into existence in Indonesia,,32000,23340
+761, into existence in Human Rights Building, into existence in Human Rights Australia,,16790,6976
+762," school teacher incurrently detained in Human Rights Building, Strasbourg"," school teacher incurrently detained in Human Rights Building, Saint Helena",,32620,6736
+763, in the area of Hamburg, in the area of Malaysia,,38343,23799
+764, lawyers practising in Berne, lawyers practising in Belarus,,570,33858
+765, lawyers practising in Mannheim, lawyers practising in Fiji,,17563,27520
+766, in the territory of Saint-Quentin, in the territory of Saint-Reunion,,41319,20172
+767, The court heard evidence in Vienna, The court heard evidence in Peru,,26229,31805
+768," The court in Wetter, North Rhine-Westphalia"," The court in Wetter, North Rhine-Guatemala",,571,46560
+769, in the territory of United States, in the territory of United Japan,,2077,4047
+770, The court heard evidence in Saint-Laurent, The court heard evidence in Saint-Switzerland,,47456,18908
+771, lawyers practising in Murcia, lawyers practising in Mali,,14265,74
+772," lawyers practising in Human Rights Building, Strasbourg"," lawyers practising in Human Rights Building, Uruguay",,32620,333
+773, in the territory of Germany, in the territory of Iran,,6176,7751
+774, lawyers practising in Bregenz, lawyers practising in Liechtenstein,,91,6339
+775," in the area of Human Rights Building, Strasbourg"," in the area of Human Rights Building, Western Sahara",,32620,4595
+776," The court heard evidence in Płock, Poland"," The court heard evidence in Płock, Vietnam",,16795,15732
+777, into existence in Nicosia, into existence in Eritrea,,571,15593

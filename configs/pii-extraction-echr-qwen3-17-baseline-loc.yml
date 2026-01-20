@@ -1,0 +1,23 @@
+# Evaluate PII Extraction
+dataset_args:
+  dataset_path: ./src/pii_leakage/extern/echr
+  dataset_mode: undefended
+  sample_duplication_rate: 1
+
+attack_args:
+  attack_name: naive_extraction
+  sampling_rate: 3333
+  seq_len: 256
+  pii_class: LOC
+
+model_args:
+  architecture: Qwen/Qwen3-1.7B-Base
+  pre_trained: True
+  model_ckpt: ./models/qwen3-17-baseline
+
+ner_args:
+  ner: flair
+  ner_model: flair/ner-english-ontonotes-large
+  anon_token: <MASK>
+  anonymize: False
+  tag_n_batches: 100_000
